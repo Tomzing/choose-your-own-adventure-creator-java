@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"TextgameFrameworkClasses.Controllers"},{"l":"TextgameFrameworkClasses.Exceptions"},{"l":"TextgameFrameworkClasses.Models"},{"l":"TextgameFrameworkClasses.sample"}]

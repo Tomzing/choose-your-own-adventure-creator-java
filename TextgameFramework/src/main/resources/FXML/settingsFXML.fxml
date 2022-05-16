@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="724.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="TextgameFrameworkClasses.Controllers.SettingsController">
+   <children>
+      <Text layoutX="35.0" layoutY="343.0" strokeType="OUTSIDE" strokeWidth="0.0" text="IT'S THE SETTINGS YO (not implemented)" textAlignment="CENTER">
+         <font>
+            <Font size="51.0" />
+         </font>
+      </Text>
+      <Button fx:id="goBackBtn" layoutX="442.0" layoutY="434.0" mnemonicParsing="false" onAction="#goToGameView" prefHeight="55.0" prefWidth="116.0" text="Go back">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
